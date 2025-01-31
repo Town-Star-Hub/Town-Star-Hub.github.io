@@ -1114,6 +1114,20 @@ const townstarObjects = {
     "ProximityImmune": false,
     "FileUrl": "images/townstarobjects/Common_Milk_Storage/icon_Common_Milk_Storage.png"
   },
+  "Common_Paint_Storage": {
+    "BuildCost": 0,
+    "Class": "BlockChain",
+    "CraftReqsMet": false,
+    "CraftTimeMod": 0,
+    "Crafts": "None",
+    "EdgeRequirements": "Road",
+    "LaborCost": 0,
+    "Name": "Common_Paint_Storage",
+    "ProximityDist": 1,
+    "ProximityEmit": "Shady",
+    "ProximityImmune": false,
+    "FileUrl": "images/townstarobjects/Common_Paint_Storage/icon_Common_Paint_Storage.png"
+  },
   "Common_Peppermint_Storage": {
     "BuildCost": 0,
     "Class": "BlockChain",
