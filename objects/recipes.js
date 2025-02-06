@@ -4529,6 +4529,25 @@ const recipes = {
         "Value3": 0,
         "FileUrl": "images/recipes/Vanilla_Bean/icon_Vanilla_Bean.png"
     },
+    "Vanilla_Scented_Candle": {
+        "CityPoints": 835,
+        "CityPrice": 21000,
+        "Class": "Crafted",
+        "ProximityBonus": "None",
+        "ProximityPenalty": "None",
+        "ProximityReverse": false,
+        "Req1": "Wax",
+        "Req2": "Wool_Yarn",
+        "Req3": "Vanilla_Beans",
+        "Time0": 120,
+        "Time1": 120,
+        "Time2": 120,
+        "Time3": 120,
+        "Value1": 3,
+        "Value2": 1,    
+        "Value3": 5,
+        "FileUrl": "images/recipes/Vanilla_Scented_Candle/icon_Vanilla_Scented_Candle.png"
+    },
     "Wine_Case": {
         "CityPoints": 5428,
         "CityPrice": 211480,
