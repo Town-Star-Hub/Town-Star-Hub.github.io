@@ -209,7 +209,7 @@ const townstarObjects = {
     "Class": "Industrial",
     "CraftReqsMet": false,
     "CraftTimeMod": 1,
-    "Crafts": "Red_Lamp,Throw_Pillow,Mirror,Candlestick,Vanilla_Scented_Candle",
+    "Crafts": "Red_Lamp,Throw_Pillow,Mirror,Candlestick,Candlestick_Gold,Vanilla_Scented_Candle",
     "EdgeRequirements": "Road",
     "LaborCost": 1,
     "Name": "Art_&_Decor_Shop",
