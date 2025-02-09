@@ -955,6 +955,23 @@ const recipes = {
         "Value3": 1,
         "FileUrl": "images/recipes/Candlestick/icon_Candlestick.png"
     },
+    "Candlestick_Gold": {
+        "CityPoints": 1860,
+        "CityPrice": 73250,
+        "Class": "Crafted",
+        "ProximityBonus": "None",
+        "ProximityPenalty": "None",
+        "ProximityReverse": false,
+        "Req1": "Vanilla_Scented_Candle",
+        "Req2": "Gold",
+        "Time0": 80,
+        "Time1": 80,
+        "Time2": 80,
+        "Time3": 80,
+        "Value1": 3,
+        "Value2": 2,
+        "FileUrl": "images/recipes/Candlestick_Gold/icon_Candlestick_Gold.png"
+    },
     "Copper": {
         "CityPoints": 7,
         "CityPrice": 1860,
