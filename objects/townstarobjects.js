@@ -205,13 +205,13 @@ const townstarObjects = {
     "FileUrl": null
   },
   "Art_&_Decor_Shop": {
-    "BuildCost": 1500000,
+    "BuildCost": 400000,
     "Class": "Industrial",
     "CraftReqsMet": false,
     "CraftTimeMod": 1,
     "Crafts": "Red_Lamp,Throw_Pillow,Mirror,Candlestick,Candlestick_Gold,Vanilla_Scented_Candle",
     "EdgeRequirements": "Road",
-    "LaborCost": 1,
+    "LaborCost": 650,
     "Name": "Art_&_Decor_Shop",
     "ProximityDist": 2,
     "ProximityEmit": "Shady",
@@ -1305,7 +1305,7 @@ const townstarObjects = {
     "Ammount4": 0
   },
   "Corn_Field": {
-    "BuildCost": 1,
+    "BuildCost": 250,
     "Class": "Farm",
     "CraftReqsMet": false,
     "CraftTimeMod": 1,
@@ -1674,7 +1674,7 @@ const townstarObjects = {
     "FileUrl": "images/townstarobjects/Epic_Basketball_Court/icon_Epic_Basketball_Court.png"
   },
   "Epic_Beehive": {
-    "BuildCost": 25000,
+    "BuildCost": 0,
     "Class": "BlockChain",
     "CraftReqsMet": false,
     "CraftTimeMod": 1,
